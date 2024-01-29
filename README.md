@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eduard
+Hi, I'm Eduard![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
 Front-End Developer
@@ -28,6 +28,9 @@ Over more than 3 years of my professional experience, I have participated in and
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/eduard7mar"><img src="https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eduard7mar's GitHub stats" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduard7mar&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduard7mar&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduard7mar&theme=swift)
 
-<a href="http://www.github.com/eduard7mar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduard7mar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
