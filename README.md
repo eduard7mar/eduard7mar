@@ -26,7 +26,7 @@ Over more than 3 years of my professional experience, I have participated in and
 ### Badges
 <p>
   <img src="https://github.r2v.ch/codewars?user=Edward___777&stroke=%23BB432C" alt="Codewars" width="400"/>
-  <img src="https://leetcard.jacoblin.cool/Edward7_7?theme=light?width=500" alt="Leetcode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/Edward7_7?theme=light" alt="Leetcode Stats"/>
 </p>
 
 <b>My GitHub Stats</b>
