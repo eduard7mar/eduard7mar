@@ -1,7 +1,7 @@
 Hi, I'm Eduard![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
 
-Front-End Developer
+I'm Junior Front-End Developer
 -------------------
 
 Junior React developer with solid hands-on experience. My portfolio includes projects using core technologies JavaScript, React, HTML, CSS, SASS, Redux, Redux Toolkit, RTK Query, AJAX, JSON, Git, Bootstrap, Webpack, Gulp, Class Components, Hooks, Routing. I enjoy programming and exploring different approaches to solving practical problems. 
@@ -27,7 +27,8 @@ Over more than 3 years of my professional experience, I have participated in and
 ![Codewars](https://github.r2v.ch/codewars?user=Edward___777&stroke=%23BB432C) 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Edward7_7?theme=light)
 
-<b>My GitHub Stats</b>
+
+### My GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduard7mar&theme=swift)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduard7mar&theme=swift)
