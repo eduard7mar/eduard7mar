@@ -1,5 +1,6 @@
-Hi, I'm Eduard! I'm a Junior Front-End Developer [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi, I'm Eduard! I'm a Junior Front-End Developer ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
+https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
 
 Junior developer with solid hands-on experience. My portfolio includes projects using core technologies JavaScript, React, HTML, CSS, SASS, Redux, Redux Toolkit, RTK Query, AJAX, JSON, Git, Bootstrap, Webpack, Gulp, Class Components, Hooks, Routing. I enjoy programming and exploring different approaches to solving practical problems. 
 
@@ -21,6 +22,5 @@ During my 3+ years of professional experience at my previous job, I have partici
 
 ### My GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduard7mar&theme=swift)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eduard7mar&theme=swift)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eduard7mar&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduard7mar&theme=gruvbox&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
