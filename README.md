@@ -3,20 +3,7 @@ Hi, I'm Eduard ![](https://user-images.githubusercontent.com/18350557/176309783-
 
 <p><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" height="250" /></p>
 
-<table border="0">
-<tr>
-<td>
-
 I'm a Junior Front-End Developer with solid hands-on experience. My portfolio includes projects using core technologies JavaScript, React, HTML, CSS, SASS, Redux, Redux Toolkit, RTK Query, AJAX, JSON, Git, Bootstrap, Webpack, Gulp, Class Components, Hooks, Routing. I enjoy programming and exploring different approaches to solving practical problems.
-
-</td>
-<td>
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" height="300" />
-
-</td>
-</tr>
-</table>
 
 ### My skills
 
