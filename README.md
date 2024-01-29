@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-Junior React developer with solid hands-on experience. My portfolio includes projects using core technologies JavaScript, React, HTML, CSS, SASS, Redux, Redux Toolkit, RTK Query, AJAX, JSON, Git, Bootstrap, Webpack, Gulp, Class Components, Hooks, Routing. I enjoy programming and exploring different approaches to solving practical problems. Over more than 3 years of my professional experience, I have participated in and led several teams and projects. This experience has allowed me to develop skills in teamwork, communication, productive collaboration, flexibility, and the ability to find solutions to complex problems. I am eager to connect with like-minded individuals and embrace new projects in the development field.
+Junior React developer with solid hands-on experience. My portfolio includes projects using core technologies JavaScript, React, HTML, CSS, SASS, Redux, Redux Toolkit, RTK Query, AJAX, JSON, Git, Bootstrap, Webpack, Gulp, Class Components, Hooks, Routing. I enjoy programming and exploring different approaches to solving practical problems. 
+
+Over more than 3 years of my professional experience, I have participated in and led several teams and projects. This experience has allowed me to develop skills in teamwork, communication, productive collaboration, flexibility, and the ability to find solutions to complex problems. I am eager to connect with like-minded individuals and embrace new projects in the development field.
 
 * 🌍  I'm based in Odesa
 * ✉️  You can contact me at [eduard.marharian@gmail.com](mailto:eduard.marharian@gmail.com)
@@ -28,3 +30,5 @@ Junior React developer with solid hands-on experience. My portfolio includes pro
 <a href="http://www.github.com/eduard7mar"><img src="https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eduard7mar's GitHub stats" /></a>
 
 <a href="http://www.github.com/eduard7mar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduard7mar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/eduard7mar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=eduard7mar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
