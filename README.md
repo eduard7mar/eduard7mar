@@ -25,18 +25,18 @@ Over more than 3 years of my professional experience, I have participated in and
 
 ### Badges
 <p>
-  <img src="https://github.r2v.ch/codewars?user=Edward___777&stroke=%23BB432C" alt="Codewars" width="350"/>
-  <img src="https://leetcard.jacoblin.cool/Edward7_7?theme=light" alt="Leetcode Stats" width="350"/>
+  <img src="https://github.r2v.ch/codewars?user=Edward___777&stroke=%23BB432C" alt="Codewars" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/Edward7_7?theme=light" alt="Leetcode Stats" width="450"/>
 </p>
 
 <b>My GitHub Stats</b>
 
 <p>
   <a href="http://www.github.com/eduard7mar">
-    <img src="https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eduard7mar's GitHub stats" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eduard7mar's GitHub stats" width="400"/>
   </a>
   <a href="http://www.github.com/eduard7mar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduard7mar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="350"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduard7mar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400"/>
   </a>
 </p>
 
