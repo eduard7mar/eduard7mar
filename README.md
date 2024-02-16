@@ -15,3 +15,9 @@ I'm a Junior Front-End Developer with solid hands-on experience. My portfolio in
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&theme=gruvbox)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduard7mar&theme=gruvbox&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eduard7mar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eduard7mar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduard7mar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
