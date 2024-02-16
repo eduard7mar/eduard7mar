@@ -1,9 +1,7 @@
-![Masterhead] (https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)](eduard7mar)
 
 Hi, I'm Eduard ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
-
-<p><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" height="250" /></p>
 
 I'm a Junior Front-End Developer with solid hands-on experience. My portfolio includes projects using core technologies JavaScript, React, HTML, CSS, SASS, Redux, Redux Toolkit, RTK Query, AJAX, JSON, Git, Bootstrap, Webpack, Gulp, Class Components, Hooks, Routing. I enjoy programming and exploring different approaches to solving practical problems.
 
