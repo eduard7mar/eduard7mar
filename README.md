@@ -24,7 +24,18 @@
     <h2 align="center">GitHub Stats📊</h2>
 </div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&theme=gruvbox)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduard7mar&theme=gruvbox&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+ <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&theme=gruvbox"/>
+ <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduard7mar&layout=compact&theme=gruvbox"/>
+</div>
+
+<h2 align="center"></h2>
+<div align="center">
+    <img height="40" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif " alt="code">
+</div> 
+
+
+
+
 
 
