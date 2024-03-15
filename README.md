@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img height="300" src="https://github.com/eduard7mar/eduard7mar/assets/98548238/ba09f0d4-0fdf-4c99-b8f6-889837aefed3" alt="code">
+    <img height="280" src="https://github.com/eduard7mar/eduard7mar/assets/98548238/ba09f0d4-0fdf-4c99-b8f6-889837aefed3" alt="code">
 </div>
 <br>
 <div align="center">
@@ -25,14 +25,14 @@
 </div> 
 
 <div align="center">
- <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&theme=gruvbox"/>
- <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduard7mar&layout=compact&theme=gruvbox"/>
+ <img style="height: 170px;" src="https://github-readme-stats.vercel.app/api?username=eduard7mar&show_icons=true&theme=gruvbox"/>
+ <img style="height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduard7mar&layout=compact&theme=gruvbox"/>
 </div> 
 
 <div align="center">
     <h2 align="center">Codewars Stats📊</h2>
-    <div><img style="height: 50px;" src="https://www.codewars.com/users/Edward___777/badges/large"/></div>    
-    <div><img src="https://github.r2v.ch/codewars?user=Edward___777"/></div>
+    <div><img style="height: 40px;" src="https://www.codewars.com/users/Edward___777/badges/large"/></div>    
+    <div><img style="height: 150px;" src="https://github.r2v.ch/codewars?user=Edward___777"/></div>
 </div>
 
 <h2 align="center"></h2>
