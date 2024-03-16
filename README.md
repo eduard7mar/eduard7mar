@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img height="280" src="https://github.com/eduard7mar/eduard7mar/assets/98548238/ba09f0d4-0fdf-4c99-b8f6-889837aefed3" alt="code">
+    <img height="300" src="https://github.com/eduard7mar/eduard7mar/assets/98548238/ba09f0d4-0fdf-4c99-b8f6-889837aefed3" alt="code">
 </div>
 <br>
 <div align="center">
