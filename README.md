@@ -9,7 +9,7 @@
 </div>
 <div align="center">
     <h2 align="center">I'm Eduard,</h2>
-    a Junior Front-End Developer with solid hands-on experience. My portfolio includes projects using core technologies JavaScript, React, HTML, CSS, SASS, Redux, Redux Toolkit, RTK Query, AJAX, JSON, Git, Bootstrap, Webpack, Gulp, Class Components, Hooks, Routing. I enjoy programming and exploring different approaches to solving practical problems.
+    Front-end Developer with a solid project management background. I'm a business-oriented, quick-learning and self-motivated specialist experienced in tech, including JavaScript, TypeScript, React, Redux, HTML5, CSS3, SASS, and GitHub. I combine soft skills like teamwork, flexibility and communication with technical skills to enhance productive collaboration and problem-solving in web development.
 </div>
 <div align="center">
     <h2 align="center">Skills
