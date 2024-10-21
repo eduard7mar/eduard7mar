@@ -9,7 +9,7 @@
 </div>
 <div align="center">
     <h2 align="center">I'm Eduard,</h2>
-    Front-end Developer with a solid project management background. I'm a business-oriented, quick-learning and self-motivated specialist experienced in tech, including JavaScript, TypeScript, React, Redux, HTML5, CSS3, SASS, and GitHub. I combine soft skills like teamwork, flexibility and communication with technical skills to enhance productive collaboration and problem-solving in web development.
+    Front-end developer with 4 years of project management experience, having led teams of over 50 professionals in healthcare and IT. My projects in digitalizing first aid training have saved hundreds of lives. My tech skills and knowledge as a front-end developer are reflected in my projects and certifications. I am seeking opportunities to contribute to IT solutions that matter.
 </div>
 <div align="center">
     <h2 align="center">Skills
